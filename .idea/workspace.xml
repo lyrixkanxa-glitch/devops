@@ -1,0 +1,914 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4622c95e-95dc-4820-ae56-c28a76ee1dad" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/analysis_options.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/android/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/android/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/android/app/google-services.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/android/app/src/main/kotlin/com/example/admin_app/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/android/app/src/main/res/drawable-v21/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/android/app/src/main/res/values-night/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/android/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/android/build/reports/problems/problems-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/android/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/firebase.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/firestore.indexes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/firestore.rules" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/ios/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/ios/Runner/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/ios/Runner/SceneDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/ios/RunnerTests/RunnerTests.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/lib/backend/auth_Service.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/lib/backend/discuss/discuss_service.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/lib/backend/learning_hub/learning_hub_service.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/lib/backend/notice/notice_model.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/lib/backend/notice/notice_service.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/lib/backend/notification_service.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/lib/backend/quiz/quiz_service.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/lib/firebase_options.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/lib/frontend/auth/AuthGate.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/lib/frontend/auth/login.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/lib/frontend/auth/register.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/lib/frontend/extra_pages/about_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/lib/frontend/extra_pages/help_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/lib/frontend/extra_pages/profile_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/lib/frontend/main5_pages/Discussed/discuss_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/lib/frontend/main5_pages/home_page/home_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/lib/frontend/main5_pages/learning_hub/assignments_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/lib/frontend/main5_pages/learning_hub/grade_detail.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/lib/frontend/main5_pages/learning_hub/learning_hub.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/lib/frontend/main5_pages/learning_hub/materials_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/lib/frontend/main5_pages/learning_hub/subject_detail.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/lib/frontend/main5_pages/learning_hub/unit_detail.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/lib/frontend/main5_pages/main_dash.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/lib/frontend/main5_pages/notice/notice_publish.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/lib/frontend/main5_pages/quiz/add_questions_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/lib/frontend/main5_pages/quiz/main_quiz.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/lib/frontend/main5_pages/quiz/quiz_grade_detail.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/lib/frontend/main5_pages/quiz/subject_quizzes_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/lib/utils/app_theme.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/lib/widgets/auth_widget.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/lib/widgets/blury_background.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../admin_app/test/widget_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backedn/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cali_admin_app/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cali_admin_app/.idea/caches/deviceStreaming.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cali_admin_app/.idea/cali_admin_app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cali_admin_app/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cali_admin_app/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cali_admin_app/cali_admin_app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cali_admin_app/cali_admin_app/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cali_admin_app/cali_admin_app/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cali_admin_app/cali_admin_app/analysis_options.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cali_admin_app/cali_admin_app/android/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cali_admin_app/cali_admin_app/android/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cali_admin_app/cali_admin_app/android/app/google-services.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cali_admin_app/cali_admin_app/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cali_admin_app/cali_admin_app/android/app/src/google-services.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cali_admin_app/cali_admin_app/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cali_admin_app/cali_admin_app/android/app/src/main/kotlin/com/example/cali_admin_app/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cali_admin_app/cali_admin_app/android/app/src/main/res/drawable-v21/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cali_admin_app/cali_admin_app/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cali_admin_app/cali_admin_app/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cali_admin_app/cali_admin_app/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cali_admin_app/cali_admin_app/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cali_admin_app/cali_admin_app/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cali_admin_app/cali_admin_app/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cali_admin_app/cali_admin_app/android/app/src/main/res/values-night/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cali_admin_app/cali_admin_app/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cali_admin_app/cali_admin_app/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cali_admin_app/cali_admin_app/android/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cali_admin_app/cali_admin_app/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cali_admin_app/cali_admin_app/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cali_admin_app/cali_admin_app/android/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cali_admin_app/cali_admin_app/assets/images/arm_circle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cali_admin_app/cali_admin_app/assets/images/jumping_jack.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cali_admin_app/cali_admin_app/assets/images/scapular_shrugs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cali_admin_app/cali_admin_app/firebase.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cali_admin_app/cali_admin_app/lib/firebase_options.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cali_admin_app/cali_admin_app/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cali_admin_app/cali_admin_app/lib/models/skill.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cali_admin_app/cali_admin_app/lib/pages/first/skill_list_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cali_admin_app/cali_admin_app/lib/pages/fourt/level_edit_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cali_admin_app/cali_admin_app/lib/pages/login_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cali_admin_app/cali_admin_app/lib/pages/second/skill_form_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cali_admin_app/cali_admin_app/lib/pages/third/skill_detail_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cali_admin_app/cali_admin_app/lib/services/auth_service.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cali_admin_app/cali_admin_app/lib/services/firestore_service.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cali_admin_app/cali_admin_app/lib/services/imgbb_service.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cali_admin_app/cali_admin_app/lib/widgets/exercise_form_dialog.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cali_admin_app/cali_admin_app/lib/widgets/image_uploader.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cali_admin_app/cali_admin_app/lib/widgets/skill_card.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cali_admin_app/cali_admin_app/lib/widgets/skill_level_card.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cali_admin_app/cali_admin_app/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cali_admin_app/cali_admin_app/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cali_admin_app/cali_admin_app/test/widget_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cali_admin_app/cali_admin_app/web/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cali_admin_app/cali_admin_app/web/icons/Icon-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cali_admin_app/cali_admin_app/web/icons/Icon-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cali_admin_app/cali_admin_app/web/icons/Icon-maskable-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cali_admin_app/cali_admin_app/web/icons/Icon-maskable-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cali_admin_app/cali_admin_app/web/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cali_admin_app/cali_admin_app/web/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/.artifacts/20260917-191122-48e01b44-7cc9-4d0f-bbdb-b21bca34d056/implementation_plan.artifact.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/.artifacts/20260917-191122-48e01b44-7cc9-4d0f-bbdb-b21bca34d056/task.artifact.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/API_REFERENCE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/analysis_options.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/android/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/android/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/android/app/src/main/kotlin/com/calis/app/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/android/app/src/main/res/drawable-v21/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/android/app/src/main/res/values-night/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/android/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/android/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/ios/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/ios/Runner/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/ios/Runner/SceneDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/ios/RunnerTests/RunnerTests.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/lib/backend/auth_respond.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/lib/backend/auth_service.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/lib/frontend/extra_pages/auth/1register_user_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/lib/frontend/extra_pages/auth/2register_verify_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/lib/frontend/extra_pages/auth/3register_fill_detail.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/lib/frontend/extra_pages/auth/complete_profile_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/lib/frontend/extra_pages/auth/first_auth_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/lib/frontend/extra_pages/auth/login_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/lib/frontend/main_pages/main_dash.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/lib/widgets/background/background.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/lib/widgets/buttons/primary_gradient_button.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/lib/widgets/input_field/input_field.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/test/auth_service_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/test/widget_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/web/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/web/icons/Icon-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/web/icons/Icon-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/web/icons/Icon-maskable-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/web/icons/Icon-maskable-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/web/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../calis/web/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/analysis_options.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/android/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/android/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/android/app/google-services.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/android/app/src/main/kotlin/com/example/callisthenics_app/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/android/app/src/main/res/drawable-v21/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/android/app/src/main/res/mipmap-hdpi/launcher_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/android/app/src/main/res/mipmap-mdpi/launcher_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/android/app/src/main/res/mipmap-xhdpi/launcher_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/android/app/src/main/res/mipmap-xxhdpi/launcher_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/android/app/src/main/res/mipmap-xxxhdpi/launcher_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/android/app/src/main/res/values-night/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/android/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/android/build/reports/problems/problems-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/android/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/assets/images/back_lever.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/assets/images/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/assets/images/dragon_flag.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/assets/images/front_lever.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/assets/images/handstand.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/assets/images/hspu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/assets/images/l_Sit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/assets/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/assets/images/maltese.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/assets/images/muscles_up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/assets/images/oahs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/assets/images/planchea.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/assets/images/turk_f.l..png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/assets/images/wrist_roll.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/assets/warm_up/arm_circle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/assets/warm_up/jumping_jack.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/assets/warm_up/scapular_shrugs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/firebase.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/ios/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/ios/Runner/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-50x50@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-50x50@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-57x57@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-57x57@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-72x72@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-72x72@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/ios/Runner/SceneDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/ios/RunnerTests/RunnerTests.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/lib/backend/admin/admin_service.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/lib/backend/auth/auth_Service.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/lib/backend/auth/auth_gate.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/lib/backend/cache/image_cache_service.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/lib/backend/community/community_service.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/lib/backend/data/skills_data.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/lib/backend/exercises/exercise_service.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/lib/backend/models/exercise_models.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/lib/backend/services/cache_service.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/lib/frontend/admin/add_skill_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/lib/frontend/admin/admin_dash.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/lib/frontend/admin/level_editor_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/lib/frontend/auth/fill_details_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/lib/frontend/auth/login_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/lib/frontend/first_pages/first_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/lib/frontend/first_pages/fourth_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/lib/frontend/first_pages/second_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/lib/frontend/first_pages/third_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/lib/frontend/main_pages/community/comment_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/lib/frontend/main_pages/community/community_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/lib/frontend/main_pages/discover/discover_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/lib/frontend/main_pages/discover/skill_details/progression_tile.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/lib/frontend/main_pages/discover/skill_details/skill_detail_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/lib/frontend/main_pages/discover/skill_details/workout_session_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/lib/frontend/main_pages/home_page/home_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/lib/frontend/main_pages/main_dash.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/lib/frontend/main_pages/profile/profile_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/lib/frontend/main_pages/progress/progress_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/lib/frontend/main_pages/progress/skill_progress_tile.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/lib/frontend/other_pages/Drawer/app_drawer.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/lib/frontend/other_pages/drawer_pages/about_app_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/lib/frontend/other_pages/drawer_pages/help_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/lib/frontend/other_pages/drawer_pages/privacy_policy_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/lib/frontend/widgets/background.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/lib/frontend/widgets/background1.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/lib/frontend/widgets/backgrounf2.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/lib/frontend/widgets/theme.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/lib/frontend/widgets/timeLine.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/lib/onboarding_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/shorebird.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/test/progress_page_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/test/skills_data_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/test/widget_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/test/workout_session_page_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/web/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/web/icons/Icon-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/web/icons/Icon-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/web/icons/Icon-maskable-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/web/icons/Icon-maskable-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/web/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../callisthenics_app/web/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/.artifacts/20260716-124433-41374552-c7fd-4740-8828-137e2f5e0210/implementation_plan.artifact.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/.artifacts/20260716-124433-41374552-c7fd-4740-8828-137e2f5e0210/task.artifact.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/.artifacts/20260716-124433-41374552-c7fd-4740-8828-137e2f5e0210/walkthrough.artifact.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/analysis_options.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/android/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/android/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/android/app/src/main/kotlin/com/example/chautari/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/android/app/src/main/res/drawable-v21/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/android/app/src/main/res/values-night/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/android/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/android/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/ios/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/ios/Runner/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/ios/Runner/SceneDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/ios/RunnerTests/RunnerTests.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/lib/API_DOCUMENTATION.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/lib/backend/auth.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/lib/backend/auth_provider.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/lib/backend/user_model/user_model.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/lib/frontend/auth/auth_gate.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/lib/frontend/auth/login_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/lib/frontend/auth/signup_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/lib/frontend/main_pages/drawer/drawer.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/lib/frontend/main_pages/home/home_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/lib/frontend/main_pages/main_dash.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/lib/frontend/main_pages/profile/profile_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/lib/frontend/main_pages/search/search_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/lib/frontend/main_pages/settings/settings_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/lib/frontend/theme_provider.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/lib/frontend/widgets/backgrounds/background.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/lib/frontend/widgets/backgrounds/background1.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/lib/frontend/widgets/custom_input_field.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/lib/frontend/widgets/gradient_icon.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/lib/frontend/widgets/icon/message_icon.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/lib/frontend/widgets/themes.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/linux/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/linux/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/linux/flutter/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/linux/flutter/generated_plugin_registrant.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/linux/flutter/generated_plugin_registrant.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/linux/flutter/generated_plugins.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/linux/runner/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/linux/runner/main.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/linux/runner/my_application.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/linux/runner/my_application.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/macos/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/macos/Flutter/Flutter-Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/macos/Flutter/Flutter-Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/macos/Flutter/GeneratedPluginRegistrant.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/macos/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/macos/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/macos/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/macos/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/macos/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/macos/Runner/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/macos/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_1024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_128.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_256.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_64.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/macos/Runner/Base.lproj/MainMenu.xib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/macos/Runner/Configs/AppInfo.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/macos/Runner/Configs/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/macos/Runner/Configs/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/macos/Runner/Configs/Warnings.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/macos/Runner/DebugProfile.entitlements" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/macos/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/macos/Runner/MainFlutterWindow.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/macos/Runner/Release.entitlements" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/macos/RunnerTests/RunnerTests.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/test/widget_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/web/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/web/icons/Icon-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/web/icons/Icon-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/web/icons/Icon-maskable-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/web/icons/Icon-maskable-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/web/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/web/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/windows/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/windows/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/windows/flutter/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/windows/flutter/generated_plugin_registrant.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/windows/flutter/generated_plugin_registrant.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/windows/flutter/generated_plugins.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/windows/runner/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/windows/runner/Runner.rc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/windows/runner/flutter_window.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/windows/runner/flutter_window.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/windows/runner/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/windows/runner/resource.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/windows/runner/resources/app_icon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/windows/runner/runner.exe.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/windows/runner/utils.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/windows/runner/utils.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/windows/runner/win32_window.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chautari/windows/runner/win32_window.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app - window/Commands Related to the Deploy/Commands" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app - window/installer.nsi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app - window/lib/frontend/main_pages/_menu/floating_menu.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app - window/lib/frontend/main_pages/_menu/macos_slide_bar.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app - window/lib/frontend/main_pages/home/all_records_table_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app - window/lib/frontend/main_pages/home/chalani/chalanis_page_controller_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app - window/lib/frontend/main_pages/home/darta/dartas_pages_controller_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app - window/logo.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/API_DOCUMENTATION.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/analysis_options.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/android/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/android/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/android/app/src/main/kotlin/com/example/darta_chalani_app/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/android/app/src/main/res/drawable-v21/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/android/app/src/main/res/values-night/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/android/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/android/build/reports/problems/problems-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/android/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/assets/logo/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/assets/lottie/login.lottie" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/ios/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/ios/Runner/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/ios/Runner/SceneDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/ios/RunnerTests/RunnerTests.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/lib/backend/auth/auth.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/lib/backend/auth/authgate.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/lib/backend/darta_chalani/dartachalani_service.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/lib/backend/department/deparment_service.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/lib/backend/finincial_year/financial_service.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/lib/frontend/auth/login_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/lib/frontend/main_pages/drawer/drawer.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/lib/frontend/main_pages/home/chalani/chalani.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/lib/frontend/main_pages/home/chalani/see_chalani.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/lib/frontend/main_pages/home/chalani/update_chalani.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/lib/frontend/main_pages/home/chalani/update_chalani_records.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/lib/frontend/main_pages/home/darta/darta.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/lib/frontend/main_pages/home/darta/see_darta.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/lib/frontend/main_pages/home/darta/update_darta.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/lib/frontend/main_pages/home/darta/update_darta_records.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/lib/frontend/main_pages/home/home_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/lib/frontend/main_pages/home/uploaded_files.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/lib/frontend/main_pages/main_dash.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/lib/frontend/main_pages/profile/profile_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/lib/frontend/main_pages/search/search_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/lib/frontend/main_pages/search/search_record.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/lib/frontend/other_pages/Advance settings/User/create_user.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/lib/frontend/other_pages/Advance settings/User/see_all_user.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/lib/frontend/other_pages/Advance settings/User/see_all_users.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/lib/frontend/other_pages/Advance settings/advance_setting.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/lib/frontend/other_pages/Advance settings/department/create_deparments.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/lib/frontend/other_pages/Advance settings/department/delete_department.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/lib/frontend/other_pages/Advance settings/department/see_all_department.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/lib/frontend/other_pages/Advance settings/finanacial_year/active_financialyear.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/lib/frontend/other_pages/Advance settings/finanacial_year/create_financialYear.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/lib/frontend/other_pages/Advance settings/finanacial_year/get_fiinancial_year.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/lib/frontend/other_pages/support_info_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/lib/frontend/other_pages/user_detail/user_detail.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/lib/frontend/routes/app_routes.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/lib/frontend/splash/splash_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/lib/frontend/theme/colors.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/lib/frontend/theme/widget_themes.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/lib/frontend/widgets/customButton.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/lib/frontend/widgets/customTextField.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/shorebird.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/test/widget_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/windows/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/windows/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/windows/flutter/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/windows/flutter/generated_plugin_registrant.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/windows/flutter/generated_plugin_registrant.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/windows/flutter/generated_plugins.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/windows/runner/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/windows/runner/Runner.rc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/windows/runner/flutter_window.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/windows/runner/flutter_window.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/windows/runner/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/windows/runner/resource.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/windows/runner/resources/app_icon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/windows/runner/runner.exe.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/windows/runner/utils.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/windows/runner/utils.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/windows/runner/win32_window.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/Darta Chalani  app/windows/runner/win32_window.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chitti chalani/my_first_app/lib/home_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clion Projects/osDev/build.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../../clion Projects/osDev/build.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clion Projects/osDev/core/boot_loader/linker.ld" beforeDir="false" afterPath="$PROJECT_DIR$/../../clion Projects/osDev/core/boot_loader/linker.ld" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clion Projects/osDev/core/kernel/kernal.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../clion Projects/osDev/core/kernel/kernal.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clion Projects/osDev/learning_things/commands.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../clion Projects/osDev/learning_things/commands.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../student_app" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "lyrixkanxa-glitch"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/lyrixkanxa-glitch/projects.git",
+    "accountId": "9880662b-e148-4a77-9078-4ae293005e95"
+  }
+}]]></component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="LDt52hug" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.5520108476295396" />
+      <entry key="MS500" value="3.338419440106263" />
+      <entry key="S2" value="6.904997541059384" />
+      <entry key="S5" value="8.975585094205435" />
+      <entry key="S10" value="9.907512502689134" />
+      <entry key="S30" value="10.616184634093834" />
+      <entry key="S60" value="10.807562579475983" />
+      <entry key="M2" value="11.50102884548389" />
+      <entry key="M5" value="30.534831319851122" />
+      <entry key="M10" value="74.53460843354236" />
+      <entry key="M15" value="105.26244572077623" />
+      <entry key="M30" value="150.96460456154992" />
+      <entry key="H1" value="181.60605764201307" />
+      <entry key="H2" value="199.3723899924748" />
+      <entry key="H4" value="208.9417356539983" />
+      <entry key="D1" value="217.28861929046823" />
+      <entry key="W1" value="218.75464577344016" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.4436852887507234" />
+      <entry key="MS500" value="3.274872032923439" />
+      <entry key="S2" value="6.853056954802971" />
+      <entry key="S5" value="8.946597364925035" />
+      <entry key="S10" value="9.891218906464257" />
+      <entry key="S30" value="10.610303433555332" />
+      <entry key="S60" value="10.80456178556784" />
+      <entry key="M2" value="11.499438946875987" />
+      <entry key="M5" value="30.53324861582908" />
+      <entry key="M10" value="74.53272312656189" />
+      <entry key="M15" value="105.26067930698201" />
+      <entry key="M30" value="150.9633422880459" />
+      <entry key="H1" value="181.60529939126798" />
+      <entry key="H2" value="199.3719740094968" />
+      <entry key="H4" value="208.94151773543572" />
+      <entry key="D1" value="217.2885815274729" />
+      <entry key="W1" value="218.7546403425131" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3LSaj22dwbS6QnOy1WP56DgaHmx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "CidrDebugProfileConversion": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/projects/devops/devops-learning/src/Main.java",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="devops-learning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="devops-learning" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="devops-learning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="devops-learning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4622c95e-95dc-4820-ae56-c28a76ee1dad" name="Changes" comment="" />
+      <created>1793450054320</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1793450054320</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
